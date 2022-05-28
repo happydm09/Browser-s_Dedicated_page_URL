@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  var text = "
+  var text =
 <h2>List of Edge URLs</h2>
 <ul>
 <li><a href='edge://about/'>edge://about</a></li>
@@ -98,7 +98,7 @@ $(document).ready(function(){
 <li>edge://heapcorruptioncrash/</li>
 <li>edge://quit/</li>
 <li>edge://restart/</li>
-</ul>";
+</ul>;
   
   //main context
   document.getElementById("context").innerHTML= text
