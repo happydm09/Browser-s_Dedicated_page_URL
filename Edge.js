@@ -1,5 +1,6 @@
 $(document).ready(function(){
-  var text = "<h2>List of Edge URLs</h2>
+  var text = "
+<h2>List of Edge URLs</h2>
 <ul>
 <li><a href='edge://about/'>edge://about</a></li>
 <li><a href='edge://accessibility/'>edge://accessibility</a></li>
