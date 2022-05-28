@@ -99,6 +99,6 @@ $(document).ready(function(){
 <li>edge://restart/</li>
 </ul>";
   
-  //main
+  //main context
   document.getElementById("context").innerHTML= text
 ;})
