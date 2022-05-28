@@ -101,5 +101,6 @@ $(document).ready(function(){
 </ul>";
   
   //main context
-  document.getElementById("context").innerHTML= text
+alert(text)
+  document.createElement('div').innerHTML= text
 ;})
